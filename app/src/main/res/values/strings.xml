@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">NewsFeed</string>
+
+    <string name="empty_screen_message">See what is going on in the world</string>
+    <string name="error_screen_message">Something went wrong, please try again.</string>
+
+    <string name="world_news">World News</string>
+    <string name="croatia_news">Croatia News</string>
+    <string name="tech_news">Tech News</string>
+
+    <string name="generate_news">Generate news</string>
 </resources>
